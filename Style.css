@@ -1,0 +1,73 @@
+body{
+  background: radial-gradient(circle, #00B8D4, #84FFFF);
+}
+.w3-card{
+ padding: .5rem;
+ margin-left: 15rem;
+ margin-right: 15rem;
+ background-color: #E0F7FA;
+}
+.logo{
+  border-radius: 50%;
+  height: 8.5rem;
+  width: 8.5rem;
+}
+.tabs{
+  background: #00BCD4;
+  padding: 1rem;
+  color: white;
+  text-decoration:none;
+  font-size: 1.3rem;
+}
+.UpperMain{
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-bottom: 1rem;
+}
+.pandaExample{
+  width: 24rem;
+  height: 18rem;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+.BottomMain{
+text-align: center;
+}
+.links{
+  text-decoration: none;
+  font-size: .9rem;
+  color: blue;
+}
+.line{
+  color: black;
+  background-color: black;
+}
+h1{
+  color: #01579B;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Fira Sans Condensed', sans-serif;
+}
+h2{
+  color: #00838F;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+ul li{
+  color: #000;
+  font-family: 'Libre Baskerville', serif;
+  font-size: .9rem;
+}
+ul > li{
+  color: #0277BD;
+}
+
+p{
+  font-family: 'Libre Baskerville', serif;
+  font-size: .9rem;
+}
+
+hr{
+  color: black;
+}
